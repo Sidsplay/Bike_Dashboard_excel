@@ -1,2 +1,2 @@
-# Bike_Dashboard_excel
+# Bike_Sales_Dashboard_excelproject
 Here's my first simple excel dashboard which presents who are the most frequently purchases the bike and at what age all. I know it is so small but thanks to @Alex the data analyst for this project. 
